@@ -55,6 +55,7 @@ The screenshots below represents the results.
 ### Covid-19 Dashboard
 
 ![image](https://github.com/user-attachments/assets/77ef5128-c038-47a2-816b-665af39890b7)
+![image](https://github.com/user-attachments/assets/47913600-0c5f-45ce-89d0-27764c640448)
 
 
 
@@ -63,3 +64,11 @@ The screenshots below represents the results.
 Navigate to Workbook folder and download the excel file. Open it in MS Excel or any other compatible spreadsheet.
 Navigate to Dashboard worksheet to access the COVID-19 DASHBOARD.
 Using the inserted slicers, select the continent or country of your choices to see the total cases, total deaths and other metrics on the dashboard for insights.
+
+## Contribution
+
+Contributions are welcome!
+
+## Licence
+
+Read the Licence File for more information.
